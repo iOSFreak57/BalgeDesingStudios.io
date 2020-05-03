@@ -1,20 +1,18 @@
-# TinDog
+# BalgeDesingStudios
 
-This repository serves to document my learning of Bootstrap via a tutorial to create a website for a dog tinder app.
+This is the offical page of BalgeDesignStudios, We are proud software proffessionals who are into Web Front and Backend Developemnt, Mobile Development. 
 
-## What I Have Used
+We have BalgeApp Labs a part of Balge Design Studios, its a team of mobile experts who maintian and manage some of the Awesome mobile applicaitons in App Store as well as Play Store.
 
-**Bootstrap 4.1.3**
+Please visit below links to some of our fine works.
 
-## Getting Started
-Click on link: https://tingzhouu.github.com/TinDogs
+## What We Do
 
 
-## Built With
-
-Bootstrap 4.1.3
+## Get In Touch
+Click on link: #
 
 
 ## Authors
 
-* **Ting Zhou** - [GitHub Link](https://github.com/tingzhouu)
+* **Venkat** ->  [GitHub Link] https://github.com/iOSFreak57
